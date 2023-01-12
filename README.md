@@ -66,11 +66,16 @@ Goal: Mine the Corpus to  end up with a related table connecting:
 
 <b>PEOPLE INVOLVED</b> 
 
-Names of Interns with specific Tasks
+- **Project Owner:** Gita Yadav Responsible for: Project Vision and Criteria
+- **Project Advisor:** Peter Murray-Rust Responsible for: Strategy
+- **Program Manager:** Manny Faria Arruda Responsibilities: Planning, Coordination, and Tracking
+- **Intern A** Responsibilities:
+	- Timely, complete and accurate logging of activities, methods, trial and error results, etc.
+- **Intern B** Responsibilities:
+	- Timely, complete and accurate logging of activities, methods, trial and error results, etc.
 
 <b>CHALLENGES</b> 
-This current data does not have TF (term Freq) or IDF metrics but these will be added later, to support weak/stroing correlations
-For More Information
+- This current data does not have TF (term Freq) or IDF metrics but these will be added later, to support weak/stroing correlations
 
 <b>TO LEARN MORE</b> 
 
